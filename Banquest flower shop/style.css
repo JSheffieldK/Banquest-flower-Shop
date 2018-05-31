@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2{
+    color:#777777
+}
+nav ul{
+    display: inline;
+}
+nav li{
+    display: inline;
+    border: solid black 2px;
+}
